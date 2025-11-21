@@ -21,7 +21,7 @@ The ranges of baud rates are;
 9600 has become the standard due to its balance between reliability and speed for serial communication.
 This doesn't mean you can't use anything below or above.
 
-If it shows up as weird symbols in the serial monitor, chang ethe Baud rate to the one you set, 9600 is the default.
+If it shows up as weird symbols in the serial monitor, change ethe Baud rate to the one you set, 9600 is the default.
 */
 
 const int BAUD_RATE = 9600;
