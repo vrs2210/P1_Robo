@@ -27,9 +27,9 @@ If it shows up as weird symbols in the serial monitor, chang ethe Baud rate to t
 const int BAUD_RATE = 9600;
 
 void setup() {
-  Serial.begin(BAUD_RATE);
+  Serial.begin(BAUD_RATE); // We setup the serial monitor with the selected BAUD_RATE.
 }
 
 void loop() {
-  Serial.println("I'm bauding my rate till i print? (LOUD INCORRECT BUZZER)"); 
+  Serial.println("I'm bauding my rate till i print? (LOUD INCORRECT BUZZER)"); // We print something utterly random to the serial monitor.
 }
