@@ -1,8 +1,6 @@
-# Hva'?
-Github Repo for vores P1 robot programming.
-## Hvad er _Code Segments_?
-Det er lokationen for alt vores Robot kode.
-## Hvad er _Guides_?
-Guides er hvor udviklerne har sat deres egen tutorials til de andre, hvis nu de har brug for det.
-# Hvor?
-Sæt kode filer ind i Code Segments, prøv at navngive dem på samme fashion jeg har.
+# About
+P1_Robo is where our P1 group keep all of their code files that should be shared among group members, as well as tutorials created by the group members and videos showcasing our code results _(preferably compressed to be under 20MB)_
+# Usage
+If you want to use **.ino** files, you'll have to use a valid Arduino IDE, where you can open it, verify and then proceed to send it over to the Arduino board of choice.
+# Contribution
+To contribute to the repo, you'll have to insert videos about projects relating to code files in the _Code Segments_ or _Guides_ container, alternatively you can create your own code files and insert into either of the folders respectively.
