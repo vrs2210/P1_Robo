@@ -5,18 +5,18 @@ The disadvantages of higher baud rate is reduced signal integrity, higher power 
 These disadvantags are however changed due to technological advancesm which has lead to 115200 basically being equal to 9600.
 
 The ranges of baud rates are;
-1. 300
-2. 600
-3. 1200
-4. 2400
-5. 9600
-6. 14400
-7. 19200
-8. 28800
-9. 31250
-10. 38400.
-11. 57600
-12. 115200
+- 300
+- 600
+- 1200
+- 2400
+- 9600
+- 14400
+- 19200
+- 28800
+- 31250
+- 38400.
+- 57600
+- 115200
 
 9600 has become the standard due to its balance between reliability and speed for serial communication.
 This doesn't mean you can't use anything below or above.
