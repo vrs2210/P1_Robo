@@ -4,7 +4,7 @@ const int SECOND_PIN = 5;
 
 enum Direction {FORWARD, BACKWARD, LEFT, RIGHT} // An enum is a user-defined data type that's just named constants.
 
-Direction Facing = FORWARD;
+Direction Facing = FORWARD; // We don't assign Facing in setup, as its unnecessary extra line of code.
 
 // Runs when the board is turned on.
 void setup() {
