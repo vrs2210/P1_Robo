@@ -5,4 +5,4 @@ If you want to use **.ino** files, you'll have to use a valid Arduino IDE, where
 # Contribution
 To contribute to the repo, you'll have to insert videos about projects relating to code files in the _Code Segments_ or _Guides_ container, alternatively you can create your own code files and insert into either of the folders respectively.
 # Contact
-If there are any problems involving the files, or you have questions about the repo, feel free to contact @vrs2210.
+If there are any problems involving the files, or you have questions about the repo, feel free to contact [Roland](https://github.com/vrs2210).
