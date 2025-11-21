@@ -8,11 +8,12 @@ Så kan du gøre:
 
 x==1 ? dothis() : dothat()
 
+Det er kaldt for en 'ternary operation', det er standard i mange andre kode programmer, bare med andre symboler.
 */
 
 #include <Wire.h>
 #include <Zumo32U4.h>
-
+// TODO: Insæt libraries som en comment ved alle klasserne nedenfor.
 Zumo32U4Motors motors;
 Zumo32U4LineSensors lineSensors;
 Zumo32U4Encoders encoders;
